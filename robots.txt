@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://royalbeddingsuite.vercel.app/sitemap.xml
