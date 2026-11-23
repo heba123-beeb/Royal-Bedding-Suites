@@ -92,7 +92,7 @@
     {
         "path": "/authors/shelia-s-khan/index.html",
         "type": "file",
-        "md5": "3f62e330039fac1a66bd2e464f5121ee"
+        "md5": "4eb49fc9b9548d71a64df5472484c1aa"
     },
     {
         "path": "authors/shelia-s-khan/page",
@@ -107,12 +107,17 @@
     {
         "path": "/authors/shelia-s-khan/page/2/index.html",
         "type": "file",
-        "md5": "5394f4268643bbfa23176558b752a85b"
+        "md5": "21276bfad3f995adb729cbef64050837"
     },
     {
         "path": "contact-us.html",
         "type": "file",
         "md5": "8ccad71aa4d07694b192d1422ca1163c"
+    },
+    {
+        "path": "creating-a-luxurious-bedroom-with-elegant-furniture-and-comfortable-design.html",
+        "type": "file",
+        "md5": "f3e6028c6df56df8a9f1a50b42c10eb1"
     },
     {
         "path": "creating-a-timeless-and-elegant-bedroom-with-beautiful-wooden-furniture.html",
@@ -132,12 +137,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1b33e438a01b5057175ec4ab8be5420e"
+        "md5": "7d11bb6c9943d3c6ccb3c641d3fb3489"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e6d7478337ec409419df80908ec2efc6"
+        "md5": "a8497db71f68d95f863989d51eaf6fc4"
     },
     {
         "path": "how-to-add-elegance-and-functionality-to-your-bedroom-with-stylish-furniture.html",
@@ -157,12 +162,12 @@
     {
         "path": "how-to-create-a-luxurious-and-comfortable-bedroom-with-the-right-bed-design.html",
         "type": "file",
-        "md5": "c7ceccf8043c1db45b108a5be5fc3d04"
+        "md5": "8f12b75b07b0229b753f319822718b3b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d0c29d7cb6afb47a5a43c06ba4f5b73c"
+        "md5": "6c17308a594692de6930e97a4649b0a0"
     },
     {
         "path": "media",
@@ -623,6 +628,81 @@
         "path": "/media/posts/15/responsive/images-2026-11-22T222911.774-xs.jpg",
         "type": "file",
         "md5": "926a66d70b652cffed7f1e2ea5fde149"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/download-2-2.jpg",
+        "type": "file",
+        "md5": "b570bcf646a599517229dd971efc9364"
+    },
+    {
+        "path": "/media/posts/16/download-2.jpg",
+        "type": "file",
+        "md5": "b570bcf646a599517229dd971efc9364"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-2xl.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-lg.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-md.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-sm.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-sm2.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-xl.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-2-xs.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-lg.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-md.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-sm.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
+    },
+    {
+        "path": "/media/posts/16/responsive/download-2-xs.jpg",
+        "type": "file",
+        "md5": "d613c01a8b101d50bc4a488b9c50f84b"
     },
     {
         "path": "media/posts/4",
@@ -1122,7 +1202,7 @@
     {
         "path": "modern-bedroom-design-ideas-for-a-clean-and-sophisticated-interior.html",
         "type": "file",
-        "md5": "ba4ee53b6b64de8d6f0a5c4fd842177c"
+        "md5": "1f69d1ec0baf55550f2fb156e6a4a4f0"
     },
     {
         "path": "modern-bedroom-design-ideas-for-a-sophisticated-and-comfortable-home.html",
@@ -1142,7 +1222,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "0733515dc58aefe11758184f8fa62d9b"
+        "md5": "47bdb3c6ca9108cf20cced8c4397e330"
     },
     {
         "path": "privacy-policy.html",
@@ -1157,7 +1237,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "92689511f0c9da34a238f4099df5a0b1"
+        "md5": "e0d6c2940b6fe0ed5c2def34d44237d9"
     },
     {
         "path": "sitemap.xsl",
@@ -1192,7 +1272,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ea9bb1a2c5ab1f4ab421e18c9e1a4fd5"
+        "md5": "1d3f6011eb644a2894106c5ff7949f52"
     },
     {
         "path": "tags/king-and-queen-bed-frames",
@@ -1202,7 +1282,7 @@
     {
         "path": "/tags/king-and-queen-bed-frames/index.html",
         "type": "file",
-        "md5": "3b908ec97d61c9034cb7a867732f4ad4"
+        "md5": "4b3c855cbbbbe818f9db32d3befd9479"
     },
     {
         "path": "tags/luxury-bedroom-sets",
@@ -1292,7 +1372,7 @@
     {
         "path": "/tags/upholstered-king-platforms/index.html",
         "type": "file",
-        "md5": "566b0c4b1313087607ba3944ae5c4198"
+        "md5": "063d77bd545c5ef6d409628729e9a1d2"
     },
     {
         "path": "tags/wingback-fabric-backrests",
