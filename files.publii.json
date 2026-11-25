@@ -92,7 +92,7 @@
     {
         "path": "/authors/shelia-s-khan/index.html",
         "type": "file",
-        "md5": "4eb49fc9b9548d71a64df5472484c1aa"
+        "md5": "ef7bcc9464c4bbb82760ca02772de082"
     },
     {
         "path": "authors/shelia-s-khan/page",
@@ -107,7 +107,12 @@
     {
         "path": "/authors/shelia-s-khan/page/2/index.html",
         "type": "file",
-        "md5": "21276bfad3f995adb729cbef64050837"
+        "md5": "79c20741622659688db55db7917b55cc"
+    },
+    {
+        "path": "choosing-natural-wood-furniture-for-a-comfortable-and-stylish-bedroom.html",
+        "type": "file",
+        "md5": "06dc6bf43e71244e04c4deabf179dc00"
     },
     {
         "path": "contact-us.html",
@@ -117,7 +122,7 @@
     {
         "path": "creating-a-luxurious-bedroom-with-elegant-furniture-and-comfortable-design.html",
         "type": "file",
-        "md5": "f3e6028c6df56df8a9f1a50b42c10eb1"
+        "md5": "eb77ed988093b2417654a10fb7e582bd"
     },
     {
         "path": "creating-a-timeless-and-elegant-bedroom-with-beautiful-wooden-furniture.html",
@@ -137,12 +142,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "7d11bb6c9943d3c6ccb3c641d3fb3489"
+        "md5": "324e5eae59c0850ce00562748bcf4cfc"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a8497db71f68d95f863989d51eaf6fc4"
+        "md5": "59b4c19559300c9600c9571cb14f6beb"
     },
     {
         "path": "how-to-add-elegance-and-functionality-to-your-bedroom-with-stylish-furniture.html",
@@ -162,12 +167,12 @@
     {
         "path": "how-to-create-a-luxurious-and-comfortable-bedroom-with-the-right-bed-design.html",
         "type": "file",
-        "md5": "8f12b75b07b0229b753f319822718b3b"
+        "md5": "58543b995b67c778299bf25597c50390"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6c17308a594692de6930e97a4649b0a0"
+        "md5": "ed14d8ccaaacdf81dd9fdd803c208ee3"
     },
     {
         "path": "media",
@@ -705,6 +710,56 @@
         "md5": "d613c01a8b101d50bc4a488b9c50f84b"
     },
     {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-11-25T230434.730.jpg",
+        "type": "file",
+        "md5": "1db015f309099369a612cae1543f9c3d"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-2xl.jpg",
+        "type": "file",
+        "md5": "569cacb4f61b79c9fe6aea6a298eb5a4"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-lg.jpg",
+        "type": "file",
+        "md5": "569cacb4f61b79c9fe6aea6a298eb5a4"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-md.jpg",
+        "type": "file",
+        "md5": "569cacb4f61b79c9fe6aea6a298eb5a4"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-sm.jpg",
+        "type": "file",
+        "md5": "8a728f8eb9c5e64a7e18fbe7c317aa94"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-sm2.jpg",
+        "type": "file",
+        "md5": "dc5c5ef0e342cd8b7252a17c0588c434"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-xl.jpg",
+        "type": "file",
+        "md5": "569cacb4f61b79c9fe6aea6a298eb5a4"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T230434.730-xs.jpg",
+        "type": "file",
+        "md5": "dfc17ae38eb799972fabb854cee103b7"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1222,7 +1277,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "47bdb3c6ca9108cf20cced8c4397e330"
+        "md5": "be52d5ed55fea609279f7a01237574d1"
     },
     {
         "path": "privacy-policy.html",
@@ -1237,7 +1292,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e0d6c2940b6fe0ed5c2def34d44237d9"
+        "md5": "81644632402bc4bc427cb8774572fa1f"
     },
     {
         "path": "sitemap.xsl",
@@ -1272,7 +1327,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1d3f6011eb644a2894106c5ff7949f52"
+        "md5": "bec014351ea735938ba1eb9454fbf1da"
     },
     {
         "path": "tags/king-and-queen-bed-frames",
@@ -1282,7 +1337,7 @@
     {
         "path": "/tags/king-and-queen-bed-frames/index.html",
         "type": "file",
-        "md5": "4b3c855cbbbbe818f9db32d3befd9479"
+        "md5": "89df1e1040f04fcc2af82b3aa1a32093"
     },
     {
         "path": "tags/luxury-bedroom-sets",
